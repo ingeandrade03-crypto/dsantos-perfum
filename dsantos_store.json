@@ -1,0 +1,57 @@
+{
+  "products": [],
+  "categories": [
+    "Perfumería Fraiche",
+    "Perfumes originales",
+    "Perfumes para dama",
+    "Perfumes para caballero",
+    "Perfumes unisex",
+    "Maquillaje",
+    "Cosméticos",
+    "Cuidado facial",
+    "Cuidado corporal",
+    "Cuidado capilar",
+    "Desodorantes",
+    "Accesorios de belleza",
+    "Otros productos"
+  ],
+  "orders": [],
+  "restockRequests": [],
+  "inventoryLogs": [],
+  "analyticsEvents": [],
+  "settings": {
+    "storeName": "D'Santos Perfumería",
+    "slogan": "Tu esencia, tu belleza, tu estilo",
+    "subtitle": "Perfumería Fraiche, Perfumes Originales y Cuidado Personal",
+    "logoUrl": "/logo.png",
+    "whatsappPhone": "525512345678",
+    "whatsappDisplayPhone": "+52 55 1234 5678",
+    "currency": "MXN",
+    "contactInfo": {
+      "address": "Av. Principal #104, Centro Comercial Galería Boutique, Local 12",
+      "email": "contacto@dsantosperfumeria.com",
+      "schedule": "Lunes a Sábado: 10:00 AM - 8:00 PM | Domingo: 11:00 AM - 5:00 PM"
+    },
+    "deliveryMethods": {
+      "storePickup": true,
+      "localDelivery": true,
+      "localDeliveryCost": 65,
+      "minOrderForFreeDelivery": 899,
+      "deliveryZones": "Zona metropolitana y colonias aledañas con entrega el mismo día o coordinada"
+    },
+    "returnPolicy": "Garantía de satisfacción: Cambios en perfumería cerrada y sellada dentro de los primeros 7 días.",
+    "lowStockThreshold": 3,
+    "whatsappCloudApi": {
+      "configured": false,
+      "phoneNumberId": "",
+      "accessToken": "",
+      "wabaId": "",
+      "templateName": "dsantos_aviso_reposicion"
+    }
+  },
+  "admin": {
+    "username": "alba",
+    "salt": "97ce620fd13df4c396da566029096ef3",
+    "passwordHash": "b824725227984f0c06cdc46d989b425f7e6f944aaa38f6461f50606c13e0019f8008343aeae4d724a10a339a3afd8c5fd67abf2d33d78a216c49087bca4d3ba3"
+  }
+}
